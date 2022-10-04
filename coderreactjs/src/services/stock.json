@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Alemana",
+        "price": 800,
+        "description": "Pan de semillas,medallón 200 gr, queso cheddar, tomate, ketchup, mostaza, cebolla y panceta en cubos. Incluye papas.",
+        "image": "alemana.jpg",
+        "stock": 20,
+        "category": "Hamburguesas"
+    },
+    {
+        "id": 2,
+        "title": "Americana",
+        "price": 750,
+        "description": "Pan de queso, medallon de carne de 200 gr, queso cheddar, panceta, tomate, cebolla crispy y bbq. Incluye papas.",
+        "image": "americana.jpg",
+        "stock": 20,
+        "category": "Hamburguesas"
+    },
+    {
+        "id": 3,
+        "title": "Española",
+        "price": 600,
+        "description": "Pan de semillas, medallón de 200 gr, cheddar, pimientos asados, tortilla de papas pay, tomate y mayonesa.",
+        "image": "española.jpg",
+        "stock": 20,
+        "category": "Hamburguesas"
+    },
+    {
+        "id": 4,
+        "title": "Tana",
+        "price": 650,
+        "description": "Pan de queso, medallon de carne de 200 gr, queso cheddar, panceta, tomate, cebolla crispy y bbq. Incluye papas.",
+        "image": "tana.jpg",
+        "stock": 20,
+        "category": "Hamburguesas"
+    },
+    {
+        "id": 5,
+        "title": "Smash",
+        "price": 850,
+        "description": "Pan de queso, medallon de carne de 200 gr, queso cheddar, panceta, tomate, cebolla crispy y bbq. Incluye papas.",
+        "image": "smash.jpg",
+        "stock": 20,
+        "category": "Hamburguesas"
+    },
+    {
+        "id": 6,
+        "title": "Vegetariana",
+        "price": 900,
+        "description": "Pan de queso, medallon de carne de 200 gr, queso cheddar, panceta, tomate, cebolla crispy y bbq. Incluye papas.",
+        "image": "vegetariana.jpg",
+        "stock": 20,
+        "category": "Hamburguesas"
+    },
+    {
+        "id": 7,
+        "title": "COCA",
+        "price": 900,
+        "description": "Pan de queso, medallon de carne de 200 gr, queso cheddar, panceta, tomate, cebolla crispy y bbq. Incluye papas.",
+        "image": "vegetariana.jpg",
+        "stock": 20,
+        "category": "Bebidas"
+    },
+    {
+        "id": 8,
+        "title": "PAPAS",
+        "price": 900,
+        "description": "Pan de queso, medallon de carne de 200 gr, queso cheddar, panceta, tomate, cebolla crispy y bbq. Incluye papas.",
+        "image": "vegetariana.jpg",
+        "stock": 20,
+        "category": "Papas"
+    }
+]
